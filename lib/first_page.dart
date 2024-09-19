@@ -13,7 +13,7 @@ class FirstPage extends StatelessWidget {
         backgroundColor: Color.fromARGB(255, 205, 187, 235),
       ),
       drawer: Drawer(
-        backgroundColor: Colors.deepPurple[100],
+        backgroundColor: Colors.deepPurple[150],
         child: Column(
           children: [
             DrawerHeader(
