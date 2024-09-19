@@ -19,7 +19,7 @@ class FirstPage extends StatelessWidget {
             DrawerHeader(
               child: Icon(
                 Icons.favorite,
-                size: 48,
+                size: 50,
               ),
             ),
             ListTile(
